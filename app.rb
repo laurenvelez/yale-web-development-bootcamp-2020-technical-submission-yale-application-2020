@@ -7,7 +7,7 @@ name = "Lauren"
 age = 19
 favorite_food = "Chicken"
 height_in_inches = 64
-
+height_message 
 
 ## Do not modify below this line!
 
