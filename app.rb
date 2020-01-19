@@ -7,7 +7,7 @@ name = "Lauren"
 age = 19
 favorite_food = "Chicken"
 height_in_inches = 64
-height_message = 
+height_message = you_are_taller_than_average ? you_are_not_taller_than average : 
 
 ## Do not modify below this line!
 
